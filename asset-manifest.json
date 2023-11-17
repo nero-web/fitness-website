@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/fitness-website/static/css/main.330f88dd.css",
+    "main.js": "/fitness-website/static/js/main.9fe78187.js",
+    "static/media/Hero_bg2.PNG": "/fitness-website/static/media/Hero_bg2.f946e9326c3ba3e995b7.PNG",
+    "static/media/Hero_bg1.PNG": "/fitness-website/static/media/Hero_bg1.6122edb534eae7eee67f.PNG",
+    "static/media/Fit-man.png": "/fitness-website/static/media/Fit-man.e4b5e1bfaf7b16e52b31.png",
+    "static/media/Img2.png": "/fitness-website/static/media/Img2.01c53fdab5ca37f06446.png",
+    "static/media/Img1.png": "/fitness-website/static/media/Img1.48c9fa9d1384e38fbfae.png",
+    "static/media/Img3.png": "/fitness-website/static/media/Img3.67e7feddf092a240ad57.png",
+    "static/media/Img4.jpg": "/fitness-website/static/media/Img4.50985f1743035fbd389c.jpg",
+    "static/media/Img3.jpg": "/fitness-website/static/media/Img3.38b9c2ceea1602fefbc4.jpg",
+    "static/media/Img1.jpg": "/fitness-website/static/media/Img1.8801517fb98b5ca5fdf2.jpg",
+    "static/media/Img2.jpg": "/fitness-website/static/media/Img2.c0f5b9572734e25aa4ae.jpg",
+    "static/media/title-bg.svg": "/fitness-website/static/media/title-bg.13d788348b56c629eefb2e7ad1f4d6ce.svg",
+    "static/media/F-logo.png": "/fitness-website/static/media/F-logo.d1139c4f4026a28dfbcc.png",
+    "static/media/Img6.jpg": "/fitness-website/static/media/Img6.aeb7c464e9ffccc77f32.jpg",
+    "static/media/Img4.png": "/fitness-website/static/media/Img4.2b15131ffd189d69eb83.png",
+    "static/media/Img5.png": "/fitness-website/static/media/Img5.6915b3b95e7a2cc9dc7e.png",
+    "static/media/slick.svg": "/fitness-website/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/fitness-website/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/fitness-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/fitness-website/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/fitness-website/index.html",
+    "main.330f88dd.css.map": "/fitness-website/static/css/main.330f88dd.css.map",
+    "main.9fe78187.js.map": "/fitness-website/static/js/main.9fe78187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.330f88dd.css",
+    "static/js/main.9fe78187.js"
+  ]
+}
