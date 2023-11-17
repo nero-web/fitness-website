@@ -1,5 +1,4 @@
 import MainButton from "../components/MainButton";
-import { Link } from "react-router-dom";
 
 function PricingBox({ img, price, month, level, feature1, feature2, feature3, feature4, setopen, setPrice, setLevel}) {
   const handleOpenModal = () => {
@@ -9,7 +8,7 @@ function PricingBox({ img, price, month, level, feature1, feature2, feature3, fe
   };
   return (
     <>
-      <div className="flex flex-col lg:w-1/3 bg-white drop-shadow-3xl relative rounded-lg overflow-hidden">
+      <div className="flex flex-col lg:w-1/3 bg-white shadow-2xl relative rounded-lg overflow-hidden">
         <div
           style={{ transition: "all 0.3s" }}
           className="relative grayscale hover:grayscale-0"

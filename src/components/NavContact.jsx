@@ -106,7 +106,7 @@ const NavContact = () => {
             </Link>
           ))}
           <ScrollLink to="about" spy={true} smooth={true} duration={500}>
-              <li className="p-4 text-3xl font-primary text-white">About</li>
+              <li className="p-4 text-3xl font-primary text-white" onClick={navigateAndScroll}>About</li>
             </ScrollLink>
             {links2.map((link, index) => (
             <Link to={link.to} key={index}>

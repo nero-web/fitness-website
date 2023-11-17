@@ -2,7 +2,8 @@ import React from "react";
 import emailjs from '@emailjs/browser';
 import { useRef } from "react";
 import NavContact from "../components/NavContact";
-import { FaFacebook, FaTwitter, FaInstagram, FaYoutube } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaYoutube } from "react-icons/fa";
+import { RiTwitterXFill } from "react-icons/ri";
 
 const ContactUs = () => {
   const form = useRef();
@@ -42,7 +43,7 @@ const ContactUs = () => {
               <a href="https://twitter.com/saadelmasrour"><FaInstagram className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
               <a href="https://twitter.com/saadelmasrour"><FaFacebook className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
               <a href="https://twitter.com/saadelmasrour"><FaYoutube className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
-              <a href="https://twitter.com/saadelmasrour"><FaTwitter className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
+              <a href="https://twitter.com/saadelmasrour"><RiTwitterXFill className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
             </div>
           </div>
           <div className='max-w-[630px] w-full '>

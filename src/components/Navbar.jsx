@@ -91,8 +91,8 @@ const Navbar = () => {
               </li>
             </Link>
           ))}
-          <ScrollLink to="about" spy={true} smooth={true} duration={500}>
-              <li className="p-4 text-3xl font-primary text-white">About</li>
+          <ScrollLink to="about" spy={true} smooth={true} duration={500} onClick={handleNav}>
+              <li className="p-4 text-3xl font-primary text-white cursor-pointer">About</li>
             </ScrollLink>
             {links2.map((link, index) => (
             <Link to={link.to} key={index}>
