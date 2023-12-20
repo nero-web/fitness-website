@@ -40,10 +40,10 @@ const ContactUs = () => {
               saadelmasrour26@gmail.com
             </a>
             <div className='gap-x-4 gap-y-4 items-center flex mt-6 mb-6'>
-              <a href="https://twitter.com/saadelmasrour"><FaInstagram className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
-              <a href="https://twitter.com/saadelmasrour"><FaFacebook className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
-              <a href="https://twitter.com/saadelmasrour"><FaYoutube className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
-              <a href="https://twitter.com/saadelmasrour"><RiTwitterXFill className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /><span className="sr-only">Visit our Twitter profile</span></a>
+              <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><FaInstagram className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
+              <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><FaFacebook className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
+              <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><FaYoutube className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
+              <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><RiTwitterXFill className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
             </div>
           </div>
           <div className='max-w-[630px] w-full '>
