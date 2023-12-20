@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fitness-website/static/css/main.ef2e4410.css",
-    "main.js": "/fitness-website/static/js/main.bc7f694a.js",
+    "main.css": "/fitness-website/static/css/main.65c575c2.css",
+    "main.js": "/fitness-website/static/js/main.1148b757.js",
     "static/media/Hero_bg2.PNG": "/fitness-website/static/media/Hero_bg2.f946e9326c3ba3e995b7.PNG",
     "static/media/Hero_bg1.PNG": "/fitness-website/static/media/Hero_bg1.6122edb534eae7eee67f.PNG",
     "static/media/Fit-man.png": "/fitness-website/static/media/Fit-man.e4b5e1bfaf7b16e52b31.png",
@@ -23,11 +23,11 @@
     "static/media/slick.ttf": "/fitness-website/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/fitness-website/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fitness-website/index.html",
-    "main.ef2e4410.css.map": "/fitness-website/static/css/main.ef2e4410.css.map",
-    "main.bc7f694a.js.map": "/fitness-website/static/js/main.bc7f694a.js.map"
+    "main.65c575c2.css.map": "/fitness-website/static/css/main.65c575c2.css.map",
+    "main.1148b757.js.map": "/fitness-website/static/js/main.1148b757.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef2e4410.css",
-    "static/js/main.bc7f694a.js"
+    "static/css/main.65c575c2.css",
+    "static/js/main.1148b757.js"
   ]
 }
