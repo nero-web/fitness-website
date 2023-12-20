@@ -43,7 +43,7 @@ const ContactUs = () => {
               <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><FaInstagram className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
               <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><FaFacebook className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
               <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><FaYoutube className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
-              <a href="https://twitter.com/saadelmasrour" aria-label="Visit our Twitter profile"><RiTwitterXFill className='icon' size={30} style={{ color: "rgb(255 43 55)" }} /></a>
+              <a href="https://twitter.com/saadelmasrour" className="text-transparent text-xs"><RiTwitterXFill className='icon' size={30} style={{ color: "rgb(255 43 55)" }} />Visit our Twitter profile</a>
             </div>
           </div>
           <div className='max-w-[630px] w-full '>
