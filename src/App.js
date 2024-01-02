@@ -11,7 +11,7 @@ import Products from './pages/Products';
 function App() {
   return (
     <div className="App">
-      <Router basename='/fitness-website'>
+      <Router>
         <Routes>
           <Route path='/' element={<Home/>}/>
           <Route path='/contact' element={<ContactUs/>}/>
